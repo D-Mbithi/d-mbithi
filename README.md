@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 ### My name is Dennis Mbithi, and I'm a Backend engineer.
-I'm a technology enthusiast, tinkering and learning new ways to solve problems. 
-Currently I'm enrolled in Udacity Fullstack nanodegree.
+I'm a technology enthusiast, tinkering and learning new ways to solve problems, currently enrolled in Udacity Fullstack Nanodegree.
 
 <!---
 **D-Mbithi/d-mbithi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
