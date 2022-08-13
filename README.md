@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 
 --->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=D-Mbithi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-mbithi&layout=compact)](https://github.com/d-mbithi/github-readme-stats)
+| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D-Mbithi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-mbithi&layout=compact)](https://github.com/d-mbithi/github-readme-stats) |
+| ------------- | ------------- |
